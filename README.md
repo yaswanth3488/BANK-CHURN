@@ -14,6 +14,8 @@ This Power BI project analyzes customer churn patterns for a fictional bank usin
 > 🚀 This project was built to simulate a real-world executive dashboard that banks can use to monitor customer behavior and act on churn signals.
 
 ---
+
+#[DOCUMENT LINK](https://github.com/yaswanth3488/BANK-CHURN/blob/main/CHECK%20OUT%20PDF%20-Bank-Customer-Churn-Analysis.pdf)
 #[Live Dashboard]
 
 ## 📌 Key Insights
