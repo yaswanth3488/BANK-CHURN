@@ -16,6 +16,7 @@ This Power BI project analyzes customer churn patterns for a fictional bank usin
 ---
 
 #[DETAILED VIEW](https://github.com/yaswanth3488/BANK-CHURN/blob/main/CHECK%20OUT%20PDF%20-%20Bank-Customer-Churn-Analysis.pdf)
+##[SQL QUERIES](https://github.com/yaswanth3488/BANK-CHURN/blob/main/SQL%20PDF%20-%20QUERIES.pdf)
 
 ## 📌 Key Insights
 
