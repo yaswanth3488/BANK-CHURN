@@ -1,6 +1,9 @@
 
 # 🏦 Bank Customer Churn Analysis - 1+ Million Rows - EXCEL, POSTGRESQL, POWER BI
 
+*** ## [DETAILED OVERVIEW - Plz Ckeck Out](https://github.com/yaswanth3488/BANK-CHURN/blob/main/CHECK%20OUT%20PDF%20-%20Bank-Customer-Churn-Analysis.pdf) ***
+    ##[SQL QUERIES](https://github.com/yaswanth3488/BANK-CHURN/blob/main/SQL%20PDF%20-%20QUERIES.pdf)
+--
 **📊 Goal:** Help banks understand why customers leave and provide actionable insights to reduce churn and improve customer retention.
 
 ## 📁 Project Overview
@@ -15,8 +18,6 @@ This Power BI project analyzes customer churn patterns for a fictional bank usin
 
 ---
 
-#[DETAILED VIEW](https://github.com/yaswanth3488/BANK-CHURN/blob/main/CHECK%20OUT%20PDF%20-%20Bank-Customer-Churn-Analysis.pdf)
-##[SQL QUERIES](https://github.com/yaswanth3488/BANK-CHURN/blob/main/SQL%20PDF%20-%20QUERIES.pdf)
 
 ## 📌 Key Insights
 
